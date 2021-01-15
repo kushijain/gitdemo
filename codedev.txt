@@ -1,0 +1,4 @@
+for i in num:
+print(i)
+
+developedby kushi 
